@@ -1,4 +1,4 @@
-# Hello there! I´m Vinícius Mota 
+# Hello there! I'm Vinícius Mota 
 <div align="flex-start">
   
   <p>- <a href='http://www.uesb.br/' >📚</a> Student of Information Systems at UESB</p>
