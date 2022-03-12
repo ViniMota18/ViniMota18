@@ -3,7 +3,8 @@
   
   <p>- <a href='http://www.uesb.br/' >📚</a> Student of Information Systems at UESB</p>
   <p>- 🧪 I'm currently learning Javascript and NodeJS</p>
-  <p>- ⚡ Fun fact: I'm a 3D modeler in my spare time!✍️ Follow me! www.artstation.com/vmk_art
+  <p>- ⚡ Fun fact: I'm a 3D modeler in my spare time!✍️ Follow me! <a href='www.artstation.com/vmk_art'><img width='80px' src='https://www.artstation.com/assets/logo-da586a7166dda92ede057f15b12c0e8c.svg' alt="ArtStation" /></a></p>
+ 
 </div>
 
 <br>
